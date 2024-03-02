@@ -44,6 +44,10 @@ The dataset comprises the following files:
 - Connect Amazon QuickSight to Amazon Athena to visualize the query results.
 - Create dashboards and visualizations to present the analysis findings.
 
+## Architecture
+
+![Architecture Diagram](spotify_aws_architecture.jpg)
+
 ## Contact
 
 Email: [phanirajbitti@gmail.com](mailto:phanirajbitti@gmail.com)
