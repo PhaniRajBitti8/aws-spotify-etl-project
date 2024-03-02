@@ -48,6 +48,10 @@ The dataset comprises the following files:
 
 ![Architecture Diagram](spotify_aws_architecture.jpg)
 
+## Glue Visual ETL
+
+![Glue Visual ETl FLow](glue_visual_etl.png)
+
 ## Contact
 
 Email: [phanirajbitti@gmail.com](mailto:phanirajbitti@gmail.com)
